@@ -5,6 +5,7 @@
 ### 🤖 Agentic AI & Cloud Enthusiast
 
 Gmail -> jorgeenebralalonso@gmail.com
+
 LinkedIn -> https://www.linkedin.com/in/jorge-enebral/
 
 ---
@@ -32,27 +33,13 @@ My goal is to continue developing as an engineer in **large-scale technology env
 - Python
 
 #### 🤖 Machine Learning & AI
-- Pytorch
-- Sklearn
-- Transformers
-- UnSloth
-- Ollama
-- vLLM
-- FastMCP
+- Pytorch, Sklearn, Transformers, UnSloth, Ollama, vLLM, FastMCP
 
 #### 🗄️ Databases
-- SQL
-- MongoDB
-- Neo4J
-- Redis
+- SQL, MongoDB, Neo4J, Redis
 
 #### ☁️ Cloud & Systems
-- Google Cloud (mainly)
-- AWS
-- Terraform
-- Kubernetes
-- Docker
-- Linux
+- Google Cloud (mainly), AWS, Terraform, Kubernetes, Docker, Linux
 
 #### 🤝 Agentic AI
 
@@ -61,8 +48,5 @@ My goal is to continue developing as an engineer in **large-scale technology env
 *Claude Code · MCP Servers · Subagents · Skills · Hooks · Context Management · Anthropic SDK*
 
 #### ⚙️ Tools & Other
-- Git
-- GitHub
-- Visual Studio Code
-- LaTeX
+- Git, GitHub, Visual Studio Code, LaTeX, WSL, Windows
 
